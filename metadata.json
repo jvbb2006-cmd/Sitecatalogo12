@@ -1,0 +1,8 @@
+{
+  "name": "AutoPrime Concessionária",
+  "description": "Catálogo digital de veículos novos e seminovos com painel administrativo completo, busca avançada e gestão de estoque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
